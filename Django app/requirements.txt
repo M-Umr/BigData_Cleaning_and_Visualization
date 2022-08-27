@@ -134,7 +134,7 @@ pycparser==2.21
 pycryptodome==3.14.1
 pyflakes==2.4.0
 Pygments==2.11.2
-PyJWT==1.7.1
+PyJWT==2.0.0
 pylint==2.12.2
 pylint-django==2.5.0
 pylint-plugin-utils==0.7
@@ -203,3 +203,9 @@ wcwidth==0.2.5
 Werkzeug==2.0.2
 wrapt==1.13.3
 zipp==3.7.0
+django
+psycopg2
+pandas
+numpy
+matplotlib
+requests
